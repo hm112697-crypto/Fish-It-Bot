@@ -7,7 +7,7 @@ import requests
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN", "MTU0ODcxNTYyMDg0ODM3ODA1Ng.GuQSQ-.3q3kcsuxtokW0iWdbggdRlCIU3owlzztSjN0Hw")
 DISCORD_CHANNEL_ID = int(os.getenv("DISCORD_CHANNEL_ID", "1548219437751210044"))
 
-GREEN_API_ID = os.getenv("GREEN_API_ID", "710722735473")
+GREEN_API_ID = os.getenv("GREEN_API_ID", "120363413849922841")
 GREEN_API_TOKEN = os.getenv("GREEN_API_TOKEN", "201f297001584d1cb286d3e3efd2d791cc28c682dc6e44e69c")
 WA_TARGET_NUMBER = os.getenv("WA_TARGET_NUMBER", "62821273156742") # Gunakan kode negara tanpa tanda +
 # =================================================
